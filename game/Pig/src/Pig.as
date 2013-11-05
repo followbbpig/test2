@@ -76,7 +76,7 @@ package
 				Scene.regScene(SceneName.RANK, Rank);
 				Scene.regScene(SceneName.HELP, Help);
 				
-				Scene.gotoScene(SceneName.LOADING);
+				Scene.gotoScene(bbbbbbbbbbbbbbb);
 				
 				m_lastTime = getTimer();
 				stage.addEventListener(flash.events.Event.ENTER_FRAME, onEnterFrame);
