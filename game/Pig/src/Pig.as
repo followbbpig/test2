@@ -13,6 +13,7 @@ package
 	
 	import starling.core.Starling;
 
+	//ddddddd
 	public class Pig extends flash.display.Sprite
 	{
 		public function Pig()
