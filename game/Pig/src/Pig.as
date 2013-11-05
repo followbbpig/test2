@@ -75,7 +75,7 @@ package
 				Scene.regScene(SceneName.MARKET, Market);
 				Scene.regScene(SceneName.RANK, Rank);
 				Scene.regScene(SceneName.HELP, Help);
-				
+
 				Scene.gotoScene(bbbbbbbbbbbbbbb);
 				
 				m_lastTime = getTimer();
